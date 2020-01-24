@@ -34,7 +34,7 @@
 
 <p align="center">
   <img alt="Frontend" src="./criptobiose/alertadev-web.png" width="100%">
-  <img alt="Frontend" src="./criptobiose/alertadev.png" height="100%">
+  <img alt="Frontend" src="./criptobiose/alertadev-mobile.png" height="100%">
 </p>
 
 ## 💻 Projeto 
