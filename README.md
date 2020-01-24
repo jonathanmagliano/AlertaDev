@@ -32,6 +32,14 @@
 
 <br>
 
+<p align="center">
+  <img alt="Frontend" src="./criptobiose/alertadev-web.png" width="100%">
+</p>
+
+<p align="center">
+  <img alt="Frontend" src="./criptobiose/alertadev-mobile.gif" width="100%">
+</p>
+
 ## 💻 Projeto 
 O AlertaDev é um projeto que consiste basicamente na busca por Developers (pré-cadastrados) ao redor da sua região por geolocalização (Mobile) e por filtro de tecnologia. E a essência desse projeto pode fomentar inúmeras ramificações criativas.
 O Projeto AlertaDev foi desenvolvido durante a Semana Omnistack da Rocketseat.
