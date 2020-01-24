@@ -34,10 +34,8 @@
 
 <p align="center">
   <img alt="Frontend" src="./criptobiose/alertadev-web.png" width="100%">
-</p>
-
-<p align="center">
-  <img alt="Frontend" src="./criptobiose/alertadev-mobile.gif" width="100%">
+  <img align="center" src="./criptobiose/alertadev-mobile.png"></img>
+  <img align="center" src="./criptobiose/alertadev-mobile.gif"></img>
 </p>
 
 ## 💻 Projeto 
