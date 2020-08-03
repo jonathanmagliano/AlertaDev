@@ -6,15 +6,15 @@
   Semana OmniStack 10
 </h4>
 <p align="center">
-  <a href="https://github.com/jonathanmagliano/Omnistack/stars">
+  <a href="https://github.com/jonathanmagliano/AlertaDev/stars">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/jonathanmagliano/Omnistack">
   </a>
   
-  <a href="https://github.com/jonathanmagliano/Omnistack/commits/master">
+  <a href="https://github.com/jonathanmagliano/AlertaDev/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jonathanmagliano/Omnistack">
   </a>
 
-  <a href="https://github.com/jonathanmagliano/Omnistack/issues">
+  <a href="https://github.com/jonathanmagliano/AlertaDev/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/jonathanmagliano/Omnistack">
   </a>
 
